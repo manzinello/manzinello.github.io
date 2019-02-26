@@ -19,10 +19,50 @@ topics:
     web_url: https://github.com/topics/react-native
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react-native/react-native.png
 
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
+
   - name: Firebase
     web_url: https://github.com/topics/firebase
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/firebase/firebase.png
 
-  - name: JavaScript
-    web_url: https://github.com/topics/javascript
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
+
+  - name: npm
+    web_url: https://github.com/topics/npm
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
+
+  - name: Webpack
+    web_url: https://github.com/topics/webpack
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/webpack/webpack.png
+
+  - name: Telegram
+    web_url: https://github.com/topics/telegram
+    image_url: https://raw.githubusercontent.com/github/explore/16c099db345f68fc7089df2810bf07914d75c70c/topics/telegram/telegram.png
+
+  - name: Google
+    web_url: https://github.com/topics/google
+    image_url: https://raw.githubusercontent.com/github/explore/204ebc99fea630a301fcb60f82358acd31cae857/topics/google/google.png
+
+  - name: iOS
+    web_url: https://github.com/topics/ios
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ios/ios.png
+
+  - name: macOS
+    web_url: https://github.com/topics/macos
+    image_url: https://raw.githubusercontent.com/github/explore/d8ae27ae1595c46559429174e7660c80fd92a767/topics/macos/macos.png
+
+  - name: PHP
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
+
+  - name: WordPress
+    web_url: https://github.com/topics/wordpress
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/wordpress/wordpress.png
