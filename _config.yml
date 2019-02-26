@@ -39,6 +39,10 @@ topics:
     web_url: https://github.com/topics/npm
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
 
+  - name: Material design
+    web_url: https://github.com/topics/material-design
+    image_url: https://raw.githubusercontent.com/github/explore/ae6b22689282e8e8c3c43f9e82a0e80ff83423b6/topics/material-design/material-design.png
+
   - name: Webpack
     web_url: https://github.com/topics/webpack
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/webpack/webpack.png
@@ -47,21 +51,17 @@ topics:
     web_url: https://github.com/topics/telegram
     image_url: https://raw.githubusercontent.com/github/explore/16c099db345f68fc7089df2810bf07914d75c70c/topics/telegram/telegram.png
 
-  - name: Google
-    web_url: https://github.com/topics/google
-    image_url: https://raw.githubusercontent.com/github/explore/204ebc99fea630a301fcb60f82358acd31cae857/topics/google/google.png
+  - name: CSS
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: iOS
-    web_url: https://github.com/topics/ios
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ios/ios.png
-
-  - name: macOS
-    web_url: https://github.com/topics/macos
-    image_url: https://raw.githubusercontent.com/github/explore/d8ae27ae1595c46559429174e7660c80fd92a767/topics/macos/macos.png
+  - name: HTML
+    web_url: https://github.com/topics/html
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
 
   - name: PHP
     web_url: https://github.com/topics/php
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
+    image_url: https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png
 
   - name: WordPress
     web_url: https://github.com/topics/wordpress
