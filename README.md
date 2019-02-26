@@ -1,4 +1,6 @@
-# Get started building your personal website
+# manzinello.github.io
+
+## Get started building your personal website
 
 ### Showcase your software development skills
 
@@ -28,17 +30,23 @@ Jekyll is a [Ruby Gem](https://jekyllrb.com/docs/ruby-101/#gems) that can be ins
 
 1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
 2. Install Jekyll and [bundler](/docs/ruby-101/#bundler) [gems](/docs/ruby-101/#gems)
+
 ```
 gem install jekyll bundler
 ```
+
 3. Change into your new directory
+
 ```
 cd personal-website
 ```
+
 4. Build the site and make it available on a local server
+
 ```
 bundle exec jekyll serve
 ```
+
 5. Now browse to [http://localhost:4000](http://localhost:4000)
 
 ### Publish
@@ -59,7 +67,6 @@ Most customizations can be done in a matter of seconds, by revising your reposit
 
 1. Shut down your server by entering the keyboard command <kbd>CTRL</kbd>+<kbd>c</kbd>
 2. Restart your server: `jekyll serve`
-
 
 #### Layout
 
