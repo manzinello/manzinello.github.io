@@ -3,6 +3,4 @@ title: "Ciao!"
 published: false
 ---
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+**Hello world**, questo è il mio primo post con Jekyll!
