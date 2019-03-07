@@ -1,4 +1,4 @@
-# Matteo Manzinello on GitHub
+# 👨🏻‍💻 Matteo Manzinello on GitHub
 
 ## manzinello.github.io
 
