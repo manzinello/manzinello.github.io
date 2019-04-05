@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Matteo Manzinello on GitHub
 
-## manzinello.github.io
+## manzinello.dev
 
 a fork of `github/personal-website` <https://github.com/github/personal-website>
