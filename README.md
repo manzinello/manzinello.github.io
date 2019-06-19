@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Matteo Manzinello on GitHub
 
-<https://matteomanzinello.com>
+<https://manzinello.com>
 
 <https://manzinello.dev>
