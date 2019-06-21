@@ -1,7 +1,5 @@
-# Matteo Manzinello on GitHub
+# 👨🏻‍💻 Matteo Manzinello on GitHub
 
-## manzinello.github.io
+<http://manzinello.com>
 
-fork of `github/personal-website`
-
-<https://github.com/github/personal-website>
+<https://manzinello.dev>
