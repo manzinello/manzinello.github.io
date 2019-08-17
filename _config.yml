@@ -5,15 +5,6 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
-permalink: /:year/:month/:day/:title/
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
 topics:
   - name: React
     web_url: https://github.com/topics/react
@@ -42,6 +33,10 @@ topics:
   - name: npm
     web_url: https://github.com/topics/npm
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
+   
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
     
   - name: Webpack
     web_url: https://github.com/topics/webpack
@@ -62,6 +57,10 @@ topics:
   - name: HTML
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
+
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
 
   - name: PHP
     web_url: https://github.com/topics/php
