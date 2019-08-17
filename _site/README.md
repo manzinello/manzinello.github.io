@@ -1,5 +1,10 @@
 # 👨🏻‍💻 Matteo Manzinello on GitHub
 
-<http://manzinello.com>
-
 <https://manzinello.dev>
+
+## force build
+
+```
+git commit -m 'rebuild pages' --allow-empty
+git push origin
+```
