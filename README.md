@@ -8,3 +8,9 @@
 git commit -m 'rebuild pages' --allow-empty
 git push origin
 ```
+
+## serve
+
+```
+bundle exec jekyll serve
+```
