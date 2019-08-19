@@ -22,6 +22,10 @@ topics:
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
 
+  - name: Contentful
+    web_url: https://github.com/topics/contentful
+    image_url: /assets/images/contentful.png
+
   - name: Redux
     web_url: https://github.com/topics/redux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png
@@ -29,6 +33,14 @@ topics:
   - name: Firebase
     web_url: https://github.com/topics/firebase
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/firebase/firebase.png
+
+  - name: Netlify
+    web_url: https://github.com/topics/netlify
+    image_url: /assets/images/netlify.png
+
+  - name: Next.js
+    web_url: https://github.com/topics/nextjs
+    image_url: /assets/images/nextjs.png
 
   - name: npm
     web_url: https://github.com/topics/npm
