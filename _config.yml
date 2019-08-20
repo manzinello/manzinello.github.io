@@ -38,6 +38,10 @@ topics:
     web_url: https://github.com/topics/netlify
     image_url: /assets/images/netlify.png
 
+  - name: Now
+    web_url: https://github.com/topics/now
+    image_url: /assets/images/now.jpeg
+
   - name: Next.js
     web_url: https://github.com/topics/nextjs
     image_url: /assets/images/nextjs.png
