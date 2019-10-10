@@ -46,14 +46,18 @@ topics:
     web_url: https://github.com/topics/nextjs
     image_url: /assets/images/nextjs.png
 
+  - name: GatsbyJS
+    web_url: https://github.com/topics/gatsby
+    image_url: /assets/images/gatsby.png
+
   - name: npm
     web_url: https://github.com/topics/npm
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
-   
+
   - name: Android
     web_url: https://github.com/topics/android
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
- 
+
   - name: WordPress
     web_url: https://github.com/topics/wordpress
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/wordpress/wordpress.png
