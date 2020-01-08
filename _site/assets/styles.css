@@ -7,3 +7,5 @@ body { font-family: "Rubik", sans-serif; }
 .link-gray-dark:hover { color: #24292e !important; }
 
 h1, h2 { font-weight: 500 !important; }
+
+.rounded-card { border-radius: 10px !important; }
