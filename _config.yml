@@ -62,6 +62,10 @@ topics:
     web_url: https://github.com/topics/webpack
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/webpack/webpack.png
 
+  - name: FaunaDB
+    web_url: https://github.com/topics/faunadb
+    image_url: /assets/images/faunadb.png
+
   - name: Gulp
     web_url: https://github.com/topics/gulp
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png
