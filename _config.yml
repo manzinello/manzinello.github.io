@@ -22,6 +22,14 @@ topics:
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
 
+  - name: Next.js
+    web_url: https://github.com/topics/nextjs
+    image_url: /assets/images/nextjs.png
+
+  - name: GatsbyJS
+    web_url: https://github.com/topics/gatsby
+    image_url: /assets/images/gatsby.png
+
   - name: Contentful
     web_url: https://github.com/topics/contentful
     image_url: /assets/images/contentful.png
@@ -29,6 +37,14 @@ topics:
   - name: React Native
     web_url: https://github.com/topics/react-native
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react-native/react-native.png
+
+  - name: CSS
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+  - name: SASS / SCSS
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
 
   - name: Redux
     web_url: https://github.com/topics/redux
@@ -45,14 +61,6 @@ topics:
   - name: Now
     web_url: https://github.com/topics/now
     image_url: /assets/images/now.jpeg
-
-  - name: Next.js
-    web_url: https://github.com/topics/nextjs
-    image_url: /assets/images/nextjs.png
-
-  - name: GatsbyJS
-    web_url: https://github.com/topics/gatsby
-    image_url: /assets/images/gatsby.png
 
   - name: npm
     web_url: https://github.com/topics/npm
@@ -73,14 +81,6 @@ topics:
   - name: Gulp
     web_url: https://github.com/topics/gulp
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png
-
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: SASS / SCSS
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
 
   - name: HTML
     web_url: https://github.com/topics/html
