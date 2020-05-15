@@ -6,25 +6,29 @@ plugins:
   - jekyll-github-metadata
 
 topics:
+  - name: JavaScript / ES
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
   - name: React
     web_url: https://github.com/topics/react
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
-
-  - name: JavaScript / ES5
-    web_url: https://github.com/topics/javascript
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
 
   - name: Node.js
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
 
+  - name: Next.js
+    web_url: https://github.com/topics/nextjs
+    image_url: /assets/images/nextjs.png
+
   - name: TypeScript
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
 
-  - name: Next.js
-    web_url: https://github.com/topics/nextjs
-    image_url: /assets/images/nextjs.png
+  - name: SASS / SCSS
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
 
   - name: GatsbyJS
     web_url: https://github.com/topics/gatsby
@@ -41,10 +45,6 @@ topics:
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: SASS / SCSS
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
 
   - name: Redux
     web_url: https://github.com/topics/redux
