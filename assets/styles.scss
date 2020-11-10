@@ -25,3 +25,11 @@ h2 {
 .rounded-card {
   border-radius: 10px !important;
 }
+
+.footer-manzinellodev {
+  &,
+  a {
+    color: white;
+  }
+  text-align: center;
+}
