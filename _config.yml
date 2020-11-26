@@ -58,9 +58,9 @@ topics:
     web_url: https://github.com/topics/netlify
     image_url: /assets/images/netlify.png
 
-  - name: Now
-    web_url: https://github.com/topics/now
-    image_url: /assets/images/now.jpeg
+  - name: Vercel
+    web_url: https://github.com/topics/vercel
+    image_url: /assets/images/vercel.png
 
   - name: npm
     web_url: https://github.com/topics/npm

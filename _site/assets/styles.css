@@ -11,4 +11,4 @@ h1, h2 { font-weight: 500 !important; }
 .rounded-card { border-radius: 10px !important; }
 
 .footer-manzinellodev { text-align: center; }
-.footer-manzinellodev, .footer-manzinellodev a { color: white; }
+.footer-manzinellodev, .footer-manzinellodev a { color: white !important; }
